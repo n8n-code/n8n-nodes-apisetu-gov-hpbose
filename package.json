@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-apisetu-gov-hpbose",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "HPBOSE Dharamshala issues Class X & XII provisional certificates (2012-18) for student download.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-apisetu-gov-hpbose",
